@@ -9,7 +9,7 @@ name: MessiNaldo
 description: Everyday Coding
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ../images/desk.jpg
+avatar:
 
 #
 # Flags below are optional
@@ -18,8 +18,8 @@ avatar: ../images/desk.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:jminyong81@gmail.com
-  facebook:Minyong Jung
+  email: jminyong81@gmail.com
+  facebook: Minyong Jung
   flickr:
   github: MessiNaldo
   instagram:
